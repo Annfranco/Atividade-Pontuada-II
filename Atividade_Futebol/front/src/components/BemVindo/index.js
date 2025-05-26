@@ -18,7 +18,7 @@ function PaginaInicial() {
       <img src={fundo} alt="Fundo da pagina" className="fundo" />
       <div className="container">
         <img src={logo} alt="Logo" />
-        <h1>Seja Bem-Vindo ao PSG!</h1>
+        <h1>Seja Bem-Vindo(a) ao PSG!</h1>
         <button type="button" onClick={handleCadastroClick} className='btn-cadastro'>
           Página de Cadastro
         </button>
